@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1408" height="622" alt="github-heading" src="https://github.com/user-attachments/assets/680857e7-34b8-44a8-8051-9ed39be4e0d5" />
-" alt="codeHasib Profile Banner" width="1000px" />
+  <img src="github-heading.png" alt="codeHasib Profile Banner" width="1000px" />
 </p>
 
 <p align="center">
