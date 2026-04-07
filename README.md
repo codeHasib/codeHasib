@@ -1,5 +1,60 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hasib</h1>
-<h3 align="center">A passionate Full-Stack Developer.</h3>
+<h3 align="center">💻 Full Stack Developer (Learning & Building) 🚀 Passionate about creating real-world applications 🎯 Focused on becoming a professional developer through hands-on projects</h3>
+
+🧠 About Me
+I started from scratch and now build full-stack applications
+I prefer learning by building, not just watching tutorials
+Currently focused on:
+Backend systems (Node.js, Express, MongoDB)
+Frontend apps with React
+Long-term goal:
+👉 Build meaningful tech that understands and supports people
+
+🛠️ Tech Stack
+🌐 Frontend
+HTML5
+CSS3 / Tailwind CSS
+JavaScript (ES6+)
+React.js
+React Router
+⚙️ Backend
+Node.js
+Express.js
+MongoDB
+Mongoose
+🔧 Tools & Platforms
+Git & GitHub
+VS Code
+Postman
+Netlify / Vercel
+
+🚀 What I Can Build
+REST APIs (CRUD operations)
+Full backend structure (MVC pattern)
+Authentication-ready backend systems
+React apps with:
+Component architecture
+Routing
+API integration
+Dynamic rendering
+Mini dashboards & interactive UI apps
+
+📈 Current Focus
+Improving React architecture & state management
+Building real-world ecommerce projects
+Connecting frontend with backend APIs
+Writing cleaner and more scalable code
+
+🧩 Projects
+
+Here are some of the things I've built:
+
+⌨️ Typing test: [https://codehasib.github.io/Type-With-Hasib/](https://codehasib.github.io/Type-With-Hasib/)
+⏰ Track Time: [https://codehasib.github.io/track-my-time-codeHasib/](https://codehasib.github.io/track-my-time-codeHasib/)
+🏦 Banking System: [https://codehasib.github.io/PayWithHasib-banking-website/](https://codehasib.github.io/PayWithHasib-banking-website/)
+🌨️ Weaher API: [https://codehasib.github.io/weather-website--api-/](https://codehasib.github.io/weather-website--api-/)
+🛒 Shopping Cart: [https://codehasib.github.io/Shop-With-Hasib/](https://codehasib.github.io/Shop-With-Hasib/)
+⚛️ React Apps with Routing (Deployed on Netlify/Vercel)
 
 - 🔭 I’m currently working on [React-Book-Vibe](https://github.com/codeHasib/PH-React-Book-Vibe)
 
