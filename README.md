@@ -92,7 +92,7 @@ const codeHasib = {
     frontend: ["React 19", "Tailwind CSS v4", "daisyUI v5"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "Mongoose"],
-    tools: ["Vercel", "Netlify", "Git", "Firebase"]
+    tools: ["Vercel", "Netlify", "Git"]
   },
   currentFocus: "Building a Personal Library Manager with MERN stack",
   dataVisualization: ["Recharts"],
