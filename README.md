@@ -1,8 +1,8 @@
-# Hi there! 👋
+
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=600&lines=Hi+there!;This+is+Mohammad+Hasib;Thanks+for+visiting+my+Github+Profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=600&lines=Hi+there!;This+is+Mohammad+Hasib;Thanks+for+visiting+my+Github" alt="Typing SVG" />
   </a>
 </p>
 
