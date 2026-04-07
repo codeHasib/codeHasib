@@ -56,7 +56,7 @@
 - Writing cleaner and more scalable code
 
 <h3> 🧩 Projects</h3>
-<h4>Here are some of the things I've built:<</h4>
+<h4>Here are some of the things I've built:</h4>
 - ⌨️ Typing test: [https://codehasib.github.io/Type-With-Hasib/](https://codehasib.github.io/Type-With-Hasib/)
 - ⏰ Track Time: [https://codehasib.github.io/track-my-time-codeHasib/](https://codehasib.github.io/track-my-time-codeHasib/)
 - 🏦 Banking System: [https://codehasib.github.io/PayWithHasib-banking-website/](https://codehasib.github.io/PayWithHasib-banking-website/)
