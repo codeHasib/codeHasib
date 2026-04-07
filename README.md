@@ -82,6 +82,9 @@ Here are some of the things I've built:
 <a href="https://fb.com/mohammad.hasib.391470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad.hasib.391470" height="30" width="40" /></a>
 </p>
 
+### 🛠️ Technical Identity
+
+```javascript
 const codeHasib = {
   pronouns: "He" | "Him",
   code: ["Javascript", "HTML", "CSS"],
@@ -89,7 +92,7 @@ const codeHasib = {
     frontend: ["React 19", "Tailwind CSS v4", "daisyUI v5"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "Mongoose"],
-    tools: ["Vercel", "Netlify", "Git"]
+    tools: ["Vercel", "Netlify", "Git", "Firebase"]
   },
   currentFocus: "Building a Personal Library Manager with MERN stack",
   dataVisualization: ["Recharts"],
@@ -100,3 +103,4 @@ const codeHasib = {
   },
   funFact: "I prefer persistence in my code and my coffee ☕"
 };
+```
