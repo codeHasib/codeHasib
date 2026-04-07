@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammad Hasib</h1>
+# Hi there! 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=Hi+there+-+This+is+Mohammad+Hasib;Thanks+for+visiting+my+Github+Profile" alt="Typing SVG" />
+</a>
 <h3 align="center"> 💻 Full Stack Developer (Learning & Building) | 🚀 Passionate about creating real-world applications | 🎯 Focused on becoming a professional developer through hands-on projects</h3>
 
 🧠 About Me
