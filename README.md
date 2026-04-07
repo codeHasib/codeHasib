@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hasib</h1>
-<h3 align="center"> - 💻 Full Stack Developer (Learning & Building) - 🚀 Passionate about creating real-world applications - 🎯 Focused on becoming a professional developer through hands-on projects</h3>
+<h3 align="center"> 💻 Full Stack Developer (Learning & Building) | 🚀 Passionate about creating real-world applications | 🎯 Focused on becoming a professional developer through hands-on projects</h3>
 
 🧠 About Me
 - I started from scratch and now build full-stack applications
@@ -30,8 +30,6 @@
 
 🚀 What I Can Build
 - REST APIs (CRUD operations)
-- Full backend structure (MVC pattern)
-- Authentication-ready backend systems
 - React apps with:
 - Component architecture
 - Routing
