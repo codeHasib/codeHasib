@@ -31,6 +31,7 @@
 - JavaScript (ES6+)
 - React.js
 - React Router
+- Next.js
 <h4> ⚙️ Backend  </h4>
 
 - Node.js
