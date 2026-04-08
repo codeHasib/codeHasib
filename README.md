@@ -95,7 +95,7 @@ const codeHasib = {
   pronouns: "He" | "Him",
   code: ["Javascript", "HTML", "CSS"],
   technologies: {
-    frontend: ["React 19", "Tailwind CSS v4", "daisyUI v5"],
+    frontend: ["Next.js", "React 19", "Tailwind CSS v4", "daisyUI v5"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "Mongoose"],
     tools: ["Vercel", "Netlify", "Git"]
