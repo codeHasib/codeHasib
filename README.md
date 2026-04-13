@@ -77,7 +77,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://codehasib.github.io/simple-portfolio/](https://codehasib.github.io/simple-portfolio/)
+- 👨‍💻 All of my projects are available at [https://codehasib-portfolio.vercel.app/](https://codehasib-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, javascript, express, mongoDB, mongoose.**
 
