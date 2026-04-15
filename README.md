@@ -10,7 +10,7 @@
 
 <h3 align="center"> 💻 Full Stack Developer (Learning & Building) | 🚀 Passionate about creating real-world applications | 🎯 Focused on becoming a professional developer through hands-on projects</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,figma,java,ps,ai&perline=8" />
 </p>
