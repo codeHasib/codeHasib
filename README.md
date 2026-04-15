@@ -86,9 +86,13 @@
 - 📫 How to reach me **mohammadhasib9827@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/codehasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codehasib" height="30" width="40" /></a>
-<a href="https://fb.com/mohammad.hasib.391470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad.hasib.391470" height="30" width="40" /></a>
+<p align="left" style="white-space: nowrap;">
+  <a href="https://linkedin.com/in/codehasib" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
+  </a>
+  <a href="https://fb.com/mohammad.hasib.391470" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" />
+  </a>
 </p>
 
 ### 🛠️ Technical Identity
