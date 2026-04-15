@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,figma,java,ps,ai&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,figma,ps,ai&perline=8" />
 </p>
 
 <h3>🧠 About Me </h3>
